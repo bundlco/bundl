@@ -1,0 +1,23 @@
+{
+  "name": "bundl-libs",
+  "version": "1.0.0",
+  "description": "JS and CSS libraries for bundl.co",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bundlco/bundl-libs.git"
+  },
+  "author": "John Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bundlco/bundl-libs/issues"
+  },
+  "homepage": "https://github.com/bundlco/bundl-libs",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-uglify": "^0.8.1"
+  }
+}

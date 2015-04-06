@@ -1,0 +1,24 @@
+/**
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2948309
+ * Licensed pageviews: 10,000
+ * fonts copyright: Copyright (c) 2009 by Hannes von Doehren. All rights reserved.
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2cfcd5");
+
+  
+@font-face {font-family: 'BrandonGrotesque-RegularItalic';src: url('fonts/2CFCD5_0_0.eot');src: url('fonts/2CFCD5_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/2CFCD5_0_0.woff2') format('woff2'),url('fonts/2CFCD5_0_0.woff') format('woff'),url('fonts/2CFCD5_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'BrandonGrotesque-Regular';src: url('fonts/2CFCD5_1_0.eot');src: url('fonts/2CFCD5_1_0.eot?#iefix') format('embedded-opentype'),url('fonts/2CFCD5_1_0.woff2') format('woff2'),url('fonts/2CFCD5_1_0.woff') format('woff'),url('fonts/2CFCD5_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'BrandonGrotesque-BoldItalic';src: url('fonts/2CFCD5_2_0.eot');src: url('fonts/2CFCD5_2_0.eot?#iefix') format('embedded-opentype'),url('fonts/2CFCD5_2_0.woff2') format('woff2'),url('fonts/2CFCD5_2_0.woff') format('woff'),url('fonts/2CFCD5_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'BrandonGrotesque-Bold';src: url('fonts/2CFCD5_3_0.eot');src: url('fonts/2CFCD5_3_0.eot?#iefix') format('embedded-opentype'),url('fonts/2CFCD5_3_0.woff2') format('woff2'),url('fonts/2CFCD5_3_0.woff') format('woff'),url('fonts/2CFCD5_3_0.ttf') format('truetype');}
+ 
