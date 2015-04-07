@@ -1,5 +1,5 @@
 {
-  "name": "bundl-libs",
+  "name": "bundl",
   "version": "1.0.0",
   "description": "JS and CSS libraries for bundl.co",
   "scripts": {
